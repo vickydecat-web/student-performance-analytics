@@ -1,0 +1,21 @@
+StudentID,Name,Department,Mathematics,Physics,Chemistry,ComputerScience,English,Attendance
+S101,Aarav Sharma,Computer Science,94,88,91,96,89,96.5
+S102,Diya Patel,Information Technology,85,79,84,88,82,92.0
+S103,Rohan Verma,Mechanical Engineering,42,38,55,60,50,74.5
+S104,Ananya Iyer,Computer Science,98,95,92,99,94,98.0
+S105,Kabir Sen,Electronics,72,68,75,70,78,85.5
+S106,Meera Nair,Civil Engineering,64,70,68,62,71,88.0
+S107,Vikram Singh,Mechanical Engineering,35,45,40,52,48,68.0
+S108,Sneha Reddy,Information Technology,89,91,87,93,90,95.0
+S109,Aditya Roy,Electronics,58,62,60,65,64,81.0
+S110,Pooja Hegde,Computer Science,91,89,86,95,92,94.5
+S111,Rahul Menon,Civil Engineering,52,55,48,58,60,78.5
+S112,Tanvi Deshmukh,Information Technology,78,82,80,85,79,89.0
+S113,Ishaan Mukherjee,Mechanical Engineering,68,72,70,74,66,84.0
+S114,Kavya Joshi,Electronics,88,85,90,87,86,93.5
+S115,Harsh Vardhan,Computer Science,30,42,36,45,50,62.0
+S116,Riya Gupta,Information Technology,76,74,78,80,82,87.5
+S117,Arjun Das,Civil Engineering,82,78,85,80,75,90.0
+S118,Neha Kulkarni,Computer Science,95,92,94,97,91,97.0
+S119,Gaurav Bhatia,Mechanical Engineering,60,58,62,64,65,80.0
+S120,Sanya Mirza,Electronics,83,86,81,89,88,91.5
