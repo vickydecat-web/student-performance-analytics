@@ -178,7 +178,6 @@ The project successfully delivered:
 
 ## 10. GitHub Repository
 
-- **Repository Link:** `https://github.com/<your-username>/student-performance-analytics`  
-  *(Replace `<your-username>` with your actual GitHub handle when pushing).*
+- **Repository Link:** `https://github.com/SuryavanshiPratyaksha/student-performance-analytics`
 - **Branch:** `main`
 - **License:** MIT (or Educational Use)
