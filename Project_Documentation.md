@@ -178,6 +178,6 @@ The project successfully delivered:
 
 ## 10. GitHub Repository
 
-- **Repository Link:** `https://github.com/pratyakshasuryavanshi/student-performance-analytics`
+- **Repository Link:** `https://github.com/vickydecat-web/student-performance-analytics`
 - **Branch:** `main`
 - **License:** MIT (or Educational Use)
