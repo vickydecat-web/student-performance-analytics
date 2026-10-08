@@ -5,7 +5,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-3.x-darkgreen.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
 
-A comprehensive Python data analysis project built for the **EWB Courses: Python with AI** assignment. This system automates the evaluation of student academic performance, calculating totals, averages, grades, pass/fail status, subject-wise analytics, and merit rankings using **NumPy** and **Pandas**.
+This system automates the evaluation of student academic performance, calculating totals, averages, grades, pass/fail status, subject-wise analytics, and merit rankings using **NumPy** and **Pandas**.
 
 ---
 
@@ -15,11 +15,8 @@ A comprehensive Python data analysis project built for the **EWB Courses: Python
 3. [Key Features](#-key-features)
 4. [Dataset Details](#-dataset-details)
 5. [Grading & Evaluation Rules](#-grading--evaluation-rules)
-6. [Installation & Setup (Virtual Environment)](#-installation--setup-virtual-environment)
-7. [Running the Project](#-running-the-project)
-8. [Sample Output & Findings](#-sample-output--findings)
-9. [Documentation Checklist](#-documentation-checklist)
-10. [Submission & Author Info](#-submission--author-info)
+6. [Sample Output & Findings](#-sample-output--findings)
+7. [Submission & Author Info](#-submission--author-info)
 
 ---
 
@@ -27,7 +24,6 @@ A comprehensive Python data analysis project built for the **EWB Courses: Python
 - **Project Title:** Student Performance Analytics System
 - **Technologies:** Python, NumPy, Pandas, Tabulate
 - **Concepts Covered:** Variables, Data Types, Loops, Functions, NumPy Arrays, Pandas DataFrames, Academic Data Analysis.
-- **Deadline:** 15 October 2026
 
 Educational institutions routinely handle large volumes of student assessment data. This application provides a deterministic, automated analytics pipeline that:
 - Reads student records from `students.csv`.
@@ -98,49 +94,6 @@ The dataset `students.csv` includes 20 student records with realistic distributi
 
 ---
 
-## 🛠️ Installation & Setup (Virtual Environment)
-
-Follow these steps to set up the project on your local machine:
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/<your-username>/student-performance-analytics.git
-cd student-performance-analytics
-```
-
-### 2. Create and Activate Virtual Environment
-**On Windows (PowerShell):**
-```powershell
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-```
-*(On Windows Command Prompt, run `venv\Scripts\activate.bat`)*  
-*(On macOS / Linux, run `source venv/bin/activate`)*
-
-### 3. Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 Running the Project
-
-Run the main analysis script using Python:
-
-```bash
-python main.py
-```
-
-The script will automatically:
-1. Load `students.csv`.
-2. Compute totals, averages, grades, and ranks.
-3. Save enriched records to `processed_students.csv`.
-4. Display statistical summaries, subject performance, and department reports.
-5. Output answers to the assignment's practical analysis questions.
-
----
-
 ## 📈 Sample Output & Findings
 
 ### Answers to Core Practical Questions:
@@ -164,22 +117,8 @@ The script will automatically:
 
 ---
 
-## ✅ Documentation Checklist
-
-- [x] Python project completed and tested in virtual environment (`venv`).
-- [x] Realistic student dataset with 20 records included (`students.csv`).
-- [x] NumPy used for array operations (`np.sum`, `np.mean`, `np.std`, `np.median`, `np.max`, `np.min`, `np.argmax`, `np.count_nonzero`).
-- [x] Pandas used for DataFrame loading, manipulation, ranking, and aggregation.
-- [x] Reusable functions module created (`functions.py`).
-- [x] Loops and conditional evaluation properly implemented.
-- [x] Detailed 10-section documentation provided (`Project_Documentation.md`).
-- [x] Clean `.gitignore` and `requirements.txt` included.
-
----
-
 ## 👤 Submission & Author Info
 
 - **Course:** EWB Courses | Python with AI
 - **Assignment:** Python Project Assignment
-- **Submission Date:** October 2026
-- **Repository:** `https://github.com/<your-username>/student-performance-analytics`
+- **Submitted by:** Suryavanshi Pratyaksha Thakur

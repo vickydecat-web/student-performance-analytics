@@ -2,7 +2,6 @@
 
 **Course:** EWB Courses | Python with AI  
 **Assignment:** Python Project Assignment  
-**Submission Deadline:** 15 October 2026  
 
 ---
 
@@ -11,9 +10,7 @@
 - **Project Title:** Student Performance Analytics System
 - **Domain:** Educational Data Analytics / Academic Performance Evaluation
 - **Language / Tech Stack:** Python 3, NumPy, Pandas, Tabulate
-- **Student Name:** *(Your Name / Student Name)*
-- **Student ID / Roll No:** *(Your Student ID)*
-- **Date of Submission:** October 2026
+- **Submitted by:** Suryavanshi Pratyaksha Thakur
 
 ---
 
